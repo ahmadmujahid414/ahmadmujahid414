@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Python programming language 
 - 💞️ I’m looking to collaborate on python projects 
-- 📫 How to reach me ahmadmujahid414@gmail.com/contact:03131996482
+- 📫 How to reach me ahmadmujahid414@gmail.com/contact:03131996481
 
 <!---
 ahmadmujahid414/ahmadmujahid414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
