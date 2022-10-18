@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mujahid Ahmad
-- 👀 I’m interested in Software Development 
+- 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Python programming language 
 - 💞️ I’m looking to collaborate on python projects 
 - 📫 How to reach me ahmadmujahid414@gmail.com/contact:03131996481
