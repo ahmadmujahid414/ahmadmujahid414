@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mujahid Ahmad</h1>
-<h3 align="center">Aspiring data scientist with more than six month of work experience as python developer and more than one year experience in academic research projects, and freelance jobs. Having data science skills, beating top academicians and big data professionals with analytical models that fit the challenge the best. Skilled and work-ready expertise in statistics, machine learning algorithms, analytics, and programming. Also having a bachelor's in Software Engineering, experience, and skills including, Web Development, Web Automation, Web Scraping, etc.</h3>
+<h3 align="center">Aspiring data scientist with more than 2 years of work experience as a Python developer and more than one year of experience in academic research projects, and freelance jobs. Having data science skills, beating top academicians and big data professionals with analytical models that best fit the challenge. Skilled and work-ready expertise in statistics, machine learning algorithms, analytics, and programming. Also have a bachelor's in Software Engineering, experience, and skills including, Web Development, Web Automation, Web Scraping, etc.</h3>
 
 - 💬 Ask me about **Python, Machine Learning, NLP, Deep Learning, Computer Vision**
 
